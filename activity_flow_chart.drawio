@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T19:36:10.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s0f5ZPq4hePj6rZkdmi-" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T22:06:05.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YL0SVJQ1LL_MV21CSWwJ" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2221" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -105,7 +105,7 @@
           <mxGeometry x="535" y="30" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i8l9DDimdn_0YV7iI_q--21" value="Створює гілку та PR, Відповідно до завдання" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="535" y="150" width="160" height="50" as="geometry" />
+          <mxGeometry x="545" y="150" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i8l9DDimdn_0YV7iI_q--22" value="ARA bot&lt;br&gt;(auto-review-assistance)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="-160" width="30" height="60" as="geometry" />
@@ -134,13 +134,16 @@
           <mxGeometry x="-240" y="435" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i8l9DDimdn_0YV7iI_q--42" value="Отрмав Approve" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="585" y="490" width="100" height="80" as="geometry" />
+          <mxGeometry x="575" y="480" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i8l9DDimdn_0YV7iI_q--43" value="Отримує review від викладача" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="565" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i8l9DDimdn_0YV7iI_q--44" value="Вносить зміни" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8l9DDimdn_0YV7iI_q--45" value="Робота здана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
